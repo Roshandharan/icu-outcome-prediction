@@ -1,4 +1,4 @@
-\"\"\"
+"""
 src package
 ------------
 
@@ -14,7 +14,7 @@ Usage:
 ------
 from src.preprocess import preprocess_text
 from src.models import build_lstm_model
-\"\"\"
+"""
 
 from .preprocess import *
 from .baseline import *
