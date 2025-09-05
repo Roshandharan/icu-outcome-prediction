@@ -2,7 +2,7 @@
 
 A **multimodal machine learning pipeline** designed to predict patient outcomes in intensive care units (ICUs) using **time-series vitals** and **clinical notes**. This repository combines NLP, deep learning, and automated deployment to provide an interpretable and actionable patient risk prediction system.
 
-![ICU Outcome Prediction Pipeline](path/to/your/image.png)
+![ICU Outcome Prediction Pipeline] Extras/Overview.png
 
 ---
 
