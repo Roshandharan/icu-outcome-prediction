@@ -3,8 +3,15 @@ import sys
 import os
 import pandas as pd
 
-# Add the parent directory to Python path so 'src' can be imported
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+# Ensure the parent folder is in the Python path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+try:
+    from src.preprocess import preprocess_text
+    from src.baseline import train_baseline, evaluate_baseline
+except ModuleNotFoundError:
+    st.error("Could not find the src module. Check folder structure and __init__.py files.")
+    raise
 
 from src.preprocess import preprocess_text
 from src.baseline import train_baseline, evaluate_baseline
