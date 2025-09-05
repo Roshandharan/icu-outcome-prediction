@@ -1,0 +1,15 @@
+name: icu-prediction
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - scikit-learn
+      - torch
+      - transformers
+      - pandas
+      - numpy
+      - matplotlib
+      - seaborn
+      - streamlit
+      - jupyter
+      - pytest

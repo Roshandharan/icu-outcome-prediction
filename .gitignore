@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Data files (optional: track only small datasets)
+data/
+
+# PyTorch / ML artifacts
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment files
+.env
