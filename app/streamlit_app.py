@@ -1,5 +1,10 @@
 import streamlit as st
+import sys
+import os
 import pandas as pd
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "src")))
+
 from src.preprocess import preprocess_text
 from src.baseline import train_baseline, evaluate_baseline
 
