@@ -1,0 +1,101 @@
+patient_id,age,gender,heart_rate,blood_pressure,spo2,notes,outcome
+P001,69,F,111,127,87,"COVID-19 positive, under observation.",Survived
+P002,32,F,121,155,93,"Regular check-up, no major issues.",Survived
+P003,89,M,117,138,94,History of hypertension and diabetes.,Survived
+P004,78,M,111,165,99,Severe respiratory distress.,Survived
+P005,38,M,71,101,98,Patient admitted with chest pain.,Deceased
+P006,41,M,98,109,97,"Regular check-up, no major issues.",Deceased
+P007,20,M,61,117,90,History of hypertension and diabetes.,Survived
+P008,39,M,62,130,94,"COVID-19 positive, under observation.",Deceased
+P009,70,F,115,133,94,"COVID-19 positive, under observation.",Deceased
+P010,19,M,118,87,90,Complains of headache and dizziness.,Deceased
+P011,47,M,61,106,85,"Regular check-up, no major issues.",Survived
+P012,55,M,61,106,88,Severe respiratory distress.,Deceased
+P013,19,F,113,177,94,High fever and cough reported.,Survived
+P014,81,M,60,100,90,Severe respiratory distress.,Deceased
+P015,77,M,78,109,99,"COVID-19 positive, under observation.",Deceased
+P016,38,F,61,176,90,"COVID-19 positive, under observation.",Survived
+P017,50,M,112,107,95,"Post-surgery recovery, stable vitals.",Deceased
+P018,75,M,103,143,96,"COVID-19 positive, under observation.",Deceased
+P019,39,M,91,176,89,Patient admitted with chest pain.,Deceased
+P020,66,M,129,148,85,Acute abdominal pain.,Survived
+P021,76,M,91,140,92,"Regular check-up, no major issues.",Survived
+P022,59,F,127,127,89,Severe respiratory distress.,Survived
+P023,77,F,114,98,96,Acute abdominal pain.,Deceased
+P024,32,F,134,83,96,History of hypertension and diabetes.,Survived
+P025,79,M,115,114,96,High fever and cough reported.,Survived
+P026,79,M,76,143,89,Patient admitted with chest pain.,Survived
+P027,64,M,97,128,91,Severe respiratory distress.,Survived
+P028,79,F,83,96,88,Acute abdominal pain.,Deceased
+P029,68,M,128,123,90,High fever and cough reported.,Deceased
+P030,72,M,129,171,97,"Post-surgery recovery, stable vitals.",Survived
+P031,81,F,70,109,88,Patient admitted with chest pain.,Deceased
+P032,20,M,75,172,98,Patient admitted with chest pain.,Survived
+P033,68,F,132,125,99,"Post-surgery recovery, stable vitals.",Survived
+P034,24,F,118,85,87,"Regular check-up, no major issues.",Deceased
+P035,38,F,129,178,91,"Post-surgery recovery, stable vitals.",Survived
+P036,56,M,139,116,92,Patient admitted with chest pain.,Survived
+P037,35,M,62,103,88,Patient admitted with chest pain.,Deceased
+P038,21,M,79,172,97,Acute abdominal pain.,Survived
+P039,77,M,118,125,86,"COVID-19 positive, under observation.",Survived
+P040,31,M,95,132,96,High fever and cough reported.,Survived
+P041,26,M,78,174,94,"Post-surgery recovery, stable vitals.",Survived
+P042,70,M,126,178,98,High fever and cough reported.,Survived
+P043,19,F,78,139,87,"Post-surgery recovery, stable vitals.",Survived
+P044,77,M,79,176,85,History of hypertension and diabetes.,Deceased
+P045,88,F,130,142,92,Patient admitted with chest pain.,Deceased
+P046,61,M,111,164,99,"COVID-19 positive, under observation.",Deceased
+P047,25,M,92,111,87,Acute abdominal pain.,Deceased
+P048,64,M,99,166,96,"COVID-19 positive, under observation.",Survived
+P049,52,F,98,112,94,"COVID-19 positive, under observation.",Survived
+P050,53,F,60,146,91,"COVID-19 positive, under observation.",Survived
+P051,67,F,70,97,94,High fever and cough reported.,Survived
+P052,21,F,116,104,89,"Post-surgery recovery, stable vitals.",Survived
+P053,19,M,109,174,94,Follow-up for cardiac surgery.,Survived
+P054,23,F,82,133,89,History of hypertension and diabetes.,Survived
+P055,71,M,90,137,98,Severe respiratory distress.,Deceased
+P056,21,M,101,146,91,"COVID-19 positive, under observation.",Deceased
+P057,71,F,66,125,99,"Regular check-up, no major issues.",Survived
+P058,80,F,75,103,93,High fever and cough reported.,Survived
+P059,35,F,119,111,96,Acute abdominal pain.,Survived
+P060,61,F,61,126,89,Severe respiratory distress.,Deceased
+P061,51,F,60,165,85,Follow-up for cardiac surgery.,Deceased
+P062,79,F,107,102,94,"Regular check-up, no major issues.",Survived
+P063,31,F,71,145,94,Follow-up for cardiac surgery.,Survived
+P064,65,F,128,106,85,Severe respiratory distress.,Survived
+P065,32,M,96,81,99,"COVID-19 positive, under observation.",Survived
+P066,89,F,91,169,86,"Regular check-up, no major issues.",Survived
+P067,79,F,68,96,98,Follow-up for cardiac surgery.,Survived
+P068,57,M,78,112,90,Acute abdominal pain.,Deceased
+P069,70,F,107,88,93,"Post-surgery recovery, stable vitals.",Survived
+P070,41,M,139,122,92,Patient admitted with chest pain.,Survived
+P071,43,M,62,127,97,"Post-surgery recovery, stable vitals.",Deceased
+P072,77,F,79,118,89,Severe respiratory distress.,Deceased
+P073,58,M,83,172,85,High fever and cough reported.,Deceased
+P074,46,M,113,121,97,Patient admitted with chest pain.,Survived
+P075,32,M,92,105,91,History of hypertension and diabetes.,Survived
+P076,62,M,83,178,99,Acute abdominal pain.,Survived
+P077,82,F,134,129,89,History of hypertension and diabetes.,Survived
+P078,88,M,131,104,90,"Regular check-up, no major issues.",Survived
+P079,26,F,95,103,97,Patient admitted with chest pain.,Survived
+P080,18,M,97,92,91,History of hypertension and diabetes.,Survived
+P081,25,M,84,139,87,History of hypertension and diabetes.,Survived
+P082,80,M,77,86,96,Follow-up for cardiac surgery.,Survived
+P083,28,M,125,136,94,"Post-surgery recovery, stable vitals.",Survived
+P084,25,F,113,115,87,Follow-up for cardiac surgery.,Survived
+P085,52,F,94,124,89,Patient admitted with chest pain.,Survived
+P086,52,M,139,99,90,Patient admitted with chest pain.,Survived
+P087,50,M,120,144,93,Severe respiratory distress.,Survived
+P088,22,F,100,87,97,Follow-up for cardiac surgery.,Survived
+P089,58,M,92,95,98,Complains of headache and dizziness.,Survived
+P090,45,M,127,93,96,"Post-surgery recovery, stable vitals.",Survived
+P091,24,M,92,155,89,Patient admitted with chest pain.,Survived
+P092,89,F,73,166,99,Severe respiratory distress.,Survived
+P093,29,F,80,94,85,Follow-up for cardiac surgery.,Deceased
+P094,51,F,107,171,98,"Post-surgery recovery, stable vitals.",Survived
+P095,50,M,79,177,98,Follow-up for cardiac surgery.,Survived
+P096,65,M,67,145,98,History of hypertension and diabetes.,Deceased
+P097,40,F,66,111,88,Severe respiratory distress.,Survived
+P098,79,F,126,166,89,"Post-surgery recovery, stable vitals.",Deceased
+P099,54,F,76,142,96,"COVID-19 positive, under observation.",Survived
+P100,61,F,92,165,94,"Regular check-up, no major issues.",Survived
